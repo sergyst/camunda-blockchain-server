@@ -1,0 +1,8 @@
+{
+  "engineUrl": "http://localhost:8080/engine-rest",
+  "clientConfig": {
+    "workerId": "nodejs-worker",
+    "maxTasks": 1,
+    "asyncResponseTimeout": 60000
+  }
+}
